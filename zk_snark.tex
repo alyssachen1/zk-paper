@@ -44,16 +44,45 @@ What defines what constitutes a mathematical proof in the simplest manner? In it
 \section{The Construction of a Proof}
 In the context of ZKPs, there exists some prover, who tries to prove the statement is true to some verifier. This protocol consists of the following properties:
 \begin{enumerate}
-    \item Completeness
-    \item Soundness
-    \item Zero-Knowledge
+    \item Completeness- the prover is able to convince the verifier of the statement's validity.
+    \item Soundness- a malicious prover is not able to prove to a verifier a false statement.
+    \item Zero-Knowledge- only the statement's validity is revealed.
 \end{enumerate}
-\subsection{Properties of ZKPs}
+
+Furthermore, a polynomial satisfies the following structure:
+\begin{center}
+    \( a_n{}x^n + a_{n-1}{}x^{n-1} + \cdots + a_0\)
+\end{center}
+
+where each \( a_n \) term corresponds to the \(n^{th}\) term-ed coefficient. A property of polynomials states that for two any arbitrary polynomials with degree at most \(d\),
+it must intersect at at most \(d\) points. 
+
 \subsection{Computation}
+For example, if we wish to prove a degree 3 polynomial with roots at \(x=1\) and \(x=2\), the Fundamental Theorem of Algebra allows us to write the polynomial
+as a product of linear terms. For example:
 
-\section{Non-Interactivity}
+\begin{center}
+    \((x-0)(x-1)(x-2) = x^3 - 3x^2 + 2\) 
+\end{center}
 
-\section{Succinctness}
+Therefore, the terms \((x-1)\) and \((x-2)\) are cofactors of the polynomial. In order to prove the polynomial \(p(x)\) indeed has roots at 1 and 2 without disclosing
+the roots themselves, the prover must prove that \(p(x) = t(x) \cdot h(x)\), where \(t(x)\) corresponds to the target polynomial \(t(x) = (x-1)(x-2)\) and \(h(x)\) is some
+arbitrary polynomial.   
+    
+
+\subsection{Properties of ZKPs}
+
+\subsection{The Role of Elliptic Curve Pairings}
+
+\section{Succintness \& Non-Interactivity}
+\subsection{Complexities of Achieving Succinctness and Non-Interactivity}
+
+\section{zk-SNARKs in DeFi}
+\subsection{Practical Challenges and Solutions in Implementation}
+
+
+
+
 
 
 \section*{References}

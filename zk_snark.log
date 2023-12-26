@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.11)  18 DEC 2023 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.11)  24 DEC 2023 19:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -605,23 +605,23 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./zk_snark.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] (./zk_snark.aux)
 Package rerunfilecheck Info: File `zk_snark.out' has not changed.
-(rerunfilecheck)             Checksum: 0F92E6D474E79E646BD54FE65E813407;970.
+(rerunfilecheck)             Checksum: B7B356B091CE84E6A6BDF69C0F17BC2D;2033.
  ) 
 Here is how much of TeX's memory you used:
- 23567 strings out of 476025
- 434275 string characters out of 5790016
- 1856388 words of memory out of 5000000
- 43634 multiletter control sequences out of 15000+600000
+ 23574 strings out of 476025
+ 434371 string characters out of 5790016
+ 1859388 words of memory out of 5000000
+ 43637 multiletter control sequences out of 15000+600000
  522040 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,553b,434s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on zk_snark.pdf (2 pages, 51681 bytes).
+ 84i,6n,89p,553b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on zk_snark.pdf (3 pages, 100292 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
- 77 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

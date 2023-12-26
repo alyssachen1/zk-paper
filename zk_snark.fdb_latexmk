@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1702938724 "/Users/alyssachen/Downloads/zK/zk_snark.tex" "zk_snark.pdf" "zk_snark" 1702938725 0
-  "/Users/alyssachen/Downloads/zK/zk_snark.tex" 1702938724 1953 19b2432417ae6c33f4a4daf2736df542 ""
+["pdflatex"] 1703476390 "/Users/alyssachen/Downloads/zK/zk_snark.tex" "zk_snark.pdf" "zk_snark" 1703476391 0
+  "/Users/alyssachen/Downloads/zK/zk_snark.tex" 1703476389 3367 2ca662190cccba692d31dba518e268ab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -24,8 +24,13 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/rsfs/rsfs5.tfm" 1229303445 684 3a51bd4fd9600428d5264cf25f04bb9a ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/rsfs/rsfs7.tfm" 1229303445 692 1b6510779f0f05e9cbf03e0f6c8361e6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1248133631 36741 fa121aac0049305630cf160b86157ee4 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -160,10 +165,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697080226 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697080190 7883462 a23569a1db7e7ea53b2e854ce072a0f5 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "zk_snark.aux" 1702938725 1474 25213e685bf57c512b3495abb7128baa "pdflatex"
-  "zk_snark.out" 1702938725 970 0f92e6d474e79e646bd54fe65e813407 "pdflatex"
-  "zk_snark.tex" 1702938724 1953 19b2432417ae6c33f4a4daf2736df542 ""
-  "zk_snark.toc" 1702938725 592 ec7f339abb3ec573a5ed7137f055ab19 "pdflatex"
+  "zk_snark.aux" 1703476390 1962 9597bd3129ce9119c2961b732d11b7f7 "pdflatex"
+  "zk_snark.out" 1703476390 2033 b7b356b091ce84e6a6bdf69c0f17bc2d "pdflatex"
+  "zk_snark.tex" 1703476389 3367 2ca662190cccba692d31dba518e268ab ""
+  "zk_snark.toc" 1703476390 957 7af8a6688cae28fc9fb4ef7d81f2a668 "pdflatex"
   (generated)
   "zk_snark.aux"
   "zk_snark.log"
